@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "de.example.nametaglines.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityRendererMixin", "PauseScreenMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
